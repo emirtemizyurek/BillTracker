@@ -21,6 +21,23 @@ Bill Tracker is a modern, cross-platform application designed to help users mana
 - **Localization**: Fully localized in **Turkish (Türkçe)**, **English**, and **Spanish (Español)**.
 - **Responsive Design**: Optimized layouts for both mobile (vertical stack) and desktop (spacious cards).
 
+## 🎨 Screenshots
+
+### 📱 Mobile
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="screenshots/Mobile-1.png" width="250" />
+  <img src="screenshots/Mobile-2.png" width="250" />
+  <img src="screenshots/Mobile-3.png" width="250" />
+</div>
+
+### 🖥️ Desktop
+<img src="screenshots/Desktop-1.png" width="100%" />
+<br><br>
+<img src="screenshots/Desktop-2.png" width="100%" />
+<br><br>
+<img src="screenshots/Desktop-3.png" width="100%" />
+
+
 ## 🛠 Tech Stack & Architecture
 
 This project demonstrates a production-ready implementation of Kotlin Multiplatform.
@@ -88,7 +105,6 @@ Connect a device or start an emulator, then run:
 2. Ensure the shared framework is built (`./gradlew :composeApp:embedAndSignAppleFrameworkForXcode`).
 3. Run on a Simulator or Device.
 
-## 🎨 Screenshots
 
 ## 📄 License
 
